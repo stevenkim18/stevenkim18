@@ -12,7 +12,7 @@
 ### 2020.01 ~ 2021.12 42Seoul 본과정
 - 한달 동안 c언어로 보는 시험(피신)에 합격하였습니다.
 - 동료학습을 깊게 경험하였습니다.
-- CS의 지식들을 많이 공부하는 시간이었습니다.
+- CS 지식들을 많이 공부하는 시간이었습니다.
 
 [![seunkim's 42 stats](https://badge42.herokuapp.com/api/stats/seunkim)](https://github.com/JaeSeoKim/badge42)
 

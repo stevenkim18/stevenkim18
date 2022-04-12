@@ -15,8 +15,6 @@
 - 동료학습을 깊게 경험하였습니다.
 - CS 지식들을 많이 공부하는 시간이었습니다.
 
-[![seunkim's 42 stats](https://badge42.herokuapp.com/api/stats/seunkim)](https://github.com/JaeSeoKim/badge42)
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=VIM&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cpp&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pyhton&logoColor=white">
 
 ### 2021.02 ~ 2021.08 야곰🐻 아카데미

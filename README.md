@@ -1,31 +1,36 @@
-안녕하세요 iOS 개발자 Steven 입니다.
+안녕하세요✋ iOS 개발자 **Steven** 입니다.<br>
+함께 하는 것을 좋아합니다. 사람을 대해서 알아가는 것을 좋아합니다.
 <br><br>
 
-### Carrer
+## Carrer
 
 째깍악어 iOS 개발팀 (2021.11 ~ 2023.09)
 
-### **Mentoring**
+## **Mentoring**
 
 야곰 아카데미 코드 리뷰어(5, 7, 9기)
 
-### Education
+## Education
 
 야곰 아카데미 커리어 스타터 2기 (2021.02 ~ 2021.08)
 
 42서울 본과정 1기 (2020.01 ~ 2021.11)
 
-### Skills
+## Interview & P**resentation**
 
-**Swift**, **UIKit**
+[야곰 아카데미 현업자 인터뷰](https://www.yagom-academy.kr/blog/37)
 
-Flutter
+[야곰 아카데미 MVVM 특강](https://github.com/stevenkim18/MVVMinPractice)
 
-### Tools
+## Skills
+
+**Swift**, **UIKit,** Flutter
+
+## Tools
 
 Firebase, Jira, GitFork, Fastlane, Figma, XcodeGen
 
-### I Learning..
+## I Learning..
 
 RxSwift, SwiftUI, ReactorKit, Tuist
 

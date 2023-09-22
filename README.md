@@ -22,6 +22,10 @@
 
 [야곰 아카데미 MVVM 특강](https://github.com/stevenkim18/MVVMinPractice)
 
+## SideProject
+
+[보라 성경 (성경 앱)](https://apps.apple.com/kr/app/보라성경/id6449989969)
+
 ## Skills
 
 **Swift**, **UIKit,** Flutter

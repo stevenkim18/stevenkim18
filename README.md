@@ -4,7 +4,9 @@
 
 ## Carrer
 
-째깍악어 iOS 개발팀 (2021.11 ~ 2023.09)
+- **XRStage VisionOS 개발자** (2024.07 ~)
+- Dot Slash Dash iOS 개발팀 (2024.04 ~ 2024.06)
+- 째깍악어 iOS 개발팀 (2021.11 ~ 2023.09)
 
 ## **Mentoring**
 
